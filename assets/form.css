@@ -10,7 +10,11 @@
     padding-bottom: 55px;
     color: black;
 }
-
+li {
+    text-align: right;
+    list-style: inside;
+    margin-top: 10px;
+}
 .order_form h2 {
     margin: 0px 0px 25px;
     padding: 0px;
